@@ -36,8 +36,5 @@ SalesApe is a project focused on automating testing for sales-related web applic
 - `e2e/`: Contains end-to-end tests, components, pages, and data for testing.
 - `playwright.config.ts`: Configuration file for Playwright.
 
-## Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.
-
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details. 
